@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2014-2026 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
- * Trigger CodeMender pipeline scan - run 4
+ * Trigger CodeMender pipeline scan - run 5
  */
 import { type Request, type Response, type NextFunction } from 'express'
 import config from 'config'
